@@ -2,7 +2,7 @@
 <p> 👀 Estou a procura de uma oportunidade na área de desenvolvimento.</p>
 <p> 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Impacta.</p>
 <p> 💻 Adoro aprender. Atualmente estudo HTML, CSS e Python. Dá uma olhadinha nos repositórios.</p>
-<p> 📧 Contate-me no e-mail: <a href = "mailto:eduardo.sasso@outlook.com?subject=subject text"> eduardo.sasso@outlook.com <a> </p>
+<p> 📧 Contate-me no e-mail: <a href = "mailto:eduardo.sasso@outlook.com"> eduardo.sasso@outlook.com <a> </p>
 
 
 <div align="center">
