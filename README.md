@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Eduardo Sasso
+- <h1> 👋 Olá, eu sou Eduardo Sasso </h1>
 - 👀 Estou a procura de uma oportunidade na área de desenvolvimento.
 - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas, além das linguagens HTML, CSS e Python.
 - 📫 Contate-me no e-mail: eduardo.sasso@outlook.com
