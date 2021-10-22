@@ -16,8 +16,6 @@
  <a href="https://github.com/edusasso/estudos-HTML" target=_blank> <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
  <a href="https://github.com/edusasso/Python" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   </div>
-  
-   ##
  
 <div align="center"> <br>
   <h2> Meus contatos: </h2>
