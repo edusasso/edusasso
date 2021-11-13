@@ -16,8 +16,8 @@
  <a href="https://github.com/edusasso/estudos-HTML" target=_blank> <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="#" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
  <a href="https://github.com/edusasso/Python" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-<a href="#" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></a>
-<a href="#" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></a>
+<a href="#" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+<a href="#" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
     
   </div>
  
