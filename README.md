@@ -14,13 +14,13 @@
    <h2>Meus projetos:</h2>
 <a href="https://github.com/edusasso/estudos-HTML" target=_blank><img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><a>
 <a href="https://github.com/edusasso/estudos-HTML" target=_blank> <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-<a href="#" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-<a href="#" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></a> 
+<a href="#" target=_blank> <img align="center" alt="Edu-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+<a href="#" target=_blank> <img align="center" alt="Edu-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"></a> 
 <a href="https://github.com/edusasso/Python" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-<a href="#" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
-<a href="#" target=_blank> <img align="center" alt="Edu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
-
-
+<a href="#" target=_blank> <img align="center" alt="Edu-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+<a href="#" target=_blank> <img align="center" alt="Edu-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+<a href="#" target=_blank> <img align="center" alt="Edu-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
+ 
     
     
     
