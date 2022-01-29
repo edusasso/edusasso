@@ -20,7 +20,7 @@
 <a href="#" target=_blank> <img align="center" alt="Edu-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 <a href="#" target=_blank> <img align="center" alt="Edu-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
 <a href="#" target=_blank> <img align="center" alt="Edu-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
- <a href="#" target=_blank> <img align="center" alt="Edu-Java" height="30" width="40" src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></a>
+ <a href="#" target=_blank> <img align="center" alt="Edu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></a>
     
 
     
